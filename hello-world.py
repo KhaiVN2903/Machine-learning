@@ -1,1 +1,0 @@
-print("Tran Thien Khai, 21, Ha Noi")
